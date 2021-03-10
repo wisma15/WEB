@@ -24,7 +24,7 @@
 <body >
     <div class="container">
         <div id="header">
-            <h1>BLOG PRIBADIKU</h1>
+            <h1>SIGN IN</h1>
         </div>
     </div>
 
@@ -51,7 +51,7 @@
         </nav>
         <div id="main-content">
             <div class="col-lg-8 ">
-                <h1 float>Daftar</h1>
+                <h3 float><i>Silahkan masukan data yang diperlukan</i></h3>
                 <hr>
                 <form class="form-horizontal" action="  ">
                     <div class="form-group">
